@@ -111,7 +111,7 @@ nav ul li:hover {
 	margin: 0;
 }
 .page-content .projects-section .project .description {
-	font-size: 10px;
+	font-size: 14px;
 }
 .page-content .projects-section .project .dates {
 	font-size: 13px;
@@ -191,4 +191,7 @@ footer{
 .project:hover{
 	background-color: black;
 	color: white;
+}
+.project{
+	height:240px
 }
